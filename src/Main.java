@@ -1,4 +1,4 @@
-import vehicle.Bike;
+/*import vehicle.Bike;
 import vehicle.Bus;
 import vehicle.Car;
 import vehicle.Vehicle;
@@ -136,7 +136,10 @@ private static void handleShowHistory() {
     for (RentalRecord r : history) {
         System.out.println(r);
     }
-}
+} */
+
+
+
 
 
 
